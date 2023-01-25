@@ -19,7 +19,7 @@ YOLOv8 is the newest state-of-the-art YOLO model that can be used for object det
 
 ## Demo
 
-Insert gif or link to demo
+![Demo Link](demo.gif)
 
 
 # Hi, I'm AHMED! 👋
