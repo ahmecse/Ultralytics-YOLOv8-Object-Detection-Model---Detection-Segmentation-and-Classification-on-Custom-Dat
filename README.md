@@ -14,7 +14,7 @@ YOLOv8 is the newest state-of-the-art YOLO model that can be used for object det
 9. Custom Object Detection 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](3.jpg)
 
 
 ## Demo
